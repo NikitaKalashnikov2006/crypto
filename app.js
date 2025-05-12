@@ -1,6 +1,6 @@
 // Инициализация TonConnect
 const connector = new TonConnect.TonConnect({
-    manifestUrl: 'https://your-website.com/tonconnect-manifest.json'
+    manifestUrl: 'https://nikitakalashnikov2006.github.io/crypto/tonconnect-manifest.json'
 });
 
 // Элементы UI
